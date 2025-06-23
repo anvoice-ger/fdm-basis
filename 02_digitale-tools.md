@@ -21,5 +21,6 @@
 * Präsentationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
 * Quiz- und Umfragetool (z. B. Mentimeter, Kahoot ...)
 * Whiteboard (z. B. Miroboard, Conceptboard, Collaboard)
-* Tool für kollaboratives Arbeiten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
+* Tool für kollaboratives (Er)Arbeiten von Texten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
 * Lernplattform (z. B. Moodle, ILIAS, OLAT...)
+* Sonstiges (Github...)
