@@ -8,7 +8,7 @@ link:
 comment:  OER.net FDM-Basiskurs
 -->
 
-# Template für die Erarbeitung des Micro-Contents für FDM-Basiskurs
+# Template für die Erarbeitung eines Micro-Contents anhand eines Lernziels für generischen FDM-Basiskurs 
 Ab jetzt gehts los: 
 
 # Titel = ID der LZM: 
@@ -18,7 +18,7 @@ _Titel ist die ID des Lernzieles wie in der LZM angegeben, im Bearbeitungsstatus
 _Nennung des Lernziels wie in LZM z. B.: Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen._
 
 ### Inhaltlicher Input 
-_ist im Prinzip der zu erreichende Output der Lernenden wie in Lernzielen angegeben, hier dann Ausformulierung der relevanten Inhalte wie Definitionen, Ziele etc. mit Quellenangaben in Form der Angabe der DOI und des Links_
+_im Prinzip der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt die Ausformulierung der relevanten Inhalte wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
 
 ### Didaktische Methoden (online) für Sozialform: Plenum
 _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
