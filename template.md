@@ -15,6 +15,13 @@ _ist im Prinzip der zu erreichende Output der Lernenden wie in Lernzielen angege
 
 ### Didaktische Methoden (online) für Sozialform: Plenum
 
+| Parameter        |          |
+| ------------     | -------- |
+| Gruppengröße     | x bis xx |
+| Zeit             | x bis xx |
+| *Parameter x*    | x bis xx |
+
+
 ### Didaktische Methoden (online) für Sozialform: Gruppenarbeit
 
 ### Didaktische Methoden (online) für Sozialform: Partner:innenarbeit
