@@ -21,7 +21,7 @@ _Nennung des Lernziels wie in LZM z. B.: Lernende können die Elemente und Ziele
 _ist im Prinzip der zu erreichende Output der Lernenden wie in Lernzielen angegeben, hier dann Ausformulierung der relevanten Inhalte wie Definitionen, Ziele etc. mit Quellenangaben in Form der Angabe der DOI und des Links_
 
 ### Didaktische Methoden (online) für Sozialform: Plenum
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels in der Sozialform des Plenums (Großgruppe) mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
 
 | Parameter        |          |
 | ------------     | -------- |
@@ -31,7 +31,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 
 
 ### Didaktische Methoden (online) für Sozialform: Gruppenarbeit
-
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Arbeit in Kleingruppen mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
 | Parameter        |          |
 | ------------     | -------- |
 | Gruppengröße     | x bis xx |
@@ -40,7 +40,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 
 
 ### Didaktische Methoden (online) für Sozialform: Partner:innenarbeit
-
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Zusammenarbeit von 2 Lernenden mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
 | Parameter        |          |
 | ------------     | -------- |
 | Gruppengröße     | x bis xx |
@@ -49,7 +49,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 
 
 ### Didaktische Methoden (online) für Sozialform: Einzelarbeit
-
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels in Einzelarbeit mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
 | Parameter        |          |
 | ------------     | -------- |
 | Gruppengröße     | x bis xx |
