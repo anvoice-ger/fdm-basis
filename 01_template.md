@@ -23,14 +23,12 @@ _der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt d
 ## Didaktische Methoden (online) für Sozialform: Plenum
 _Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels (Wiederholen, festigen, anwenden) bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
 
-### Ziel der didaktischen Methode: 
-
-| Parameter        |          |
-| ------------     | -------- |
-| Gruppengröße     | x bis xx |
-| Zeit             | x bis xx |
-| *Parameter x*    | x bis xx |
-
+| Parameter                         |          |
+| -----------------------------     | -------- |
+| Ziel der didaktischen Methode     | x bis xx |
+| Gruppengröße                      | x bis xx |
+| Zeit                              | x bis xx |
+| *Parameter x*                     | x bis xx |
 
 ## Didaktische Methoden (online) für Sozialform: Gruppenarbeit
 _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Arbeit in Kleingruppen mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
