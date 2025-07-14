@@ -17,11 +17,13 @@ _Titel ist die ID des Lernzieles wie in der LZM angegeben, im Bearbeitungsstatus
 ## Lernziel
 _Nennung des Lernziels wie in LZM z. B.: Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen._
 
-## Inhaltlicher Input 
-_im Prinzip der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt die Ausformulierung der relevanten Inhalte wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
+## Ausformulierter Inhalt des Lernziels 
+_der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt die Ausformulierung der relevanten Inhalte wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
 
 ## Didaktische Methoden (online) für Sozialform: Plenum
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels (Wiederholen, festigen, anwenden) bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode z. B. Lehrvortrag/Präsentation Input: Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)_
+
+### Ziel der didaktischen Methode: 
 
 | Parameter        |          |
 | ------------     | -------- |
