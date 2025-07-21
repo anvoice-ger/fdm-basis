@@ -17,8 +17,8 @@ _Titel ist die ID des Lernzieles wie in der LZM angegeben, im Bearbeitungsstatus
 ## Lernziel
 _Nennung des Lernziels wie in LZM z. B.: Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen. sowie Aufzählung der inhaltlich zusammenhängenden oder aufeinander aufbauenden Lernziele z. B. 01_004_0059 Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern._
 
-## Kontext
-_der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt die Ausformulierung der relevanten Inhalte wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
+## Inhalt und Bezug
+_hier folgt die Ausformulierung der relevanten Inhalte und Bezüge wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
 
 ## Didaktische Methoden (online) für Sozialform: Plenum
 _Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
