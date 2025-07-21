@@ -21,7 +21,7 @@ _Nennung des Lernziels wie in LZM z. B.: Lernende können die Elemente und Ziele
 _der zu erreichende Output der Lernenden wie im Lernziel angegeben, hier folgt die Ausformulierung der relevanten Inhalte wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links_
 
 ## Didaktische Methoden (online) für Sozialform: Plenum
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
@@ -31,7 +31,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des L
 | *Parameter x*                     | x bis xx |
 
 ## Didaktische Methoden (online) für Sozialform: Gruppenarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Arbeit in Kleingruppen mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Arbeit in Kleingruppen mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
@@ -42,7 +42,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 
 
 ## Didaktische Methoden (online) für Sozialform: Partner:innenarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Zusammenarbeit von 2 Lernenden mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Zusammenarbeit von 2 Lernenden mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
@@ -53,7 +53,7 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 
 
 ## Didaktische Methoden (online) für Sozialform: Einzelarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels in Einzelarbeit mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels in Einzelarbeit mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
