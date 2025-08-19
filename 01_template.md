@@ -71,7 +71,7 @@ _optional: Hinweise zur Durchführung der Methoden wie z. B. Installation der So
 _Aus der folgenden Liste einfach alle wegstreichen, die nicht benötigt werden ->  Quelle der Liste, die bei Bedarf noch weiter ausgebaut werden sollte: https://github.com/anvoice-ger/fdm-basis/blob/main/02_digitale-tools.md_
 
 * Videokonferenztool (z. B. Zoom, Webex, Big Blue Button u. a.)
-* Präsenationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
+* Präsentationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
 * Quiz- und Umfragetool (z. B. Mentimeter, Kahoot ...)
 * Whiteboard (z. B. Miroboard, Conceptboard, Collaborad)
 * Tool für kollaboratives (Er)Arbeiten von Texten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
