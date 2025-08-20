@@ -7,9 +7,9 @@ FDM Basiskurs aus OER Net
 Kürzel der erstellenden Person_ID Lernziel 
 _z. B. av__01_004_0058.md_
 
-**Reviewverfahren**
+**Reviewverfahren:**
 
-1. reviewte LZ werden mit r vor dem Kürzel markiert 
+1. Zu reviewende (also fertig erarbeitete) LZ werden mit r vor dem Kürzel markiert 
 _z. B. r_av__01_004_0058.md_
 
 2. Reviewende Person markiert reviewtes Lernziel mit dem eigenen Kürzel hinter dem r
