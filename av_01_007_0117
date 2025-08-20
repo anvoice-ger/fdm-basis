@@ -1,0 +1,29 @@
+<!--
+author: Anne Voigt
+email:    
+version:  v1
+language: DE
+icon:     
+link:     
+comment:  OER.net FDM-Basiskurs
+-->
+
+# 01_007_0117 (LZM)
+
+## Lernziel
+
+**Lernende können die FAIR-Prinzipien benennen.**
+
+### Inhalte und Bezug 
+Die FAIR-Prinzipien umfassen vier Ziele zur Aufbereitung von Forschungsdaten, um sie effektiver auffindbar und nachnutzbar zu machen (vgl. Biernacka et al. 2023. S. 27): 
+•	die Auffindbarkeit (Findable), 
+•	die Zugänglichkeit (Accessible), 
+•	die Interoperabilitat (Interoberable) und 
+•	die Wiederverwendbarkeit (Re-usable).
+(K. Biernacka, R. Dockhorn, C. Engelhardt, K. Helbig, J. Jacob, T. Kalova, A. Karsten, K. Meier, A. Muhlichen, J. Neumann, B. Petersen, B. Slowig, U. Trautwein-Bruns, J. Wilbrandt und C. Wiljes, Train-the-Trainer-Konzept zum Thema  Forschungsdatenmanagement, Version 5.0, Zenodo, 2023, DOI: https://doi.org/10.5281/zenodo.10122153) 
+
+FAIR-Prinzipien
+"Das Hauptziel der FAIR-Prinzipien liegt in einer optimalen Aufbereitung von Forschungsdaten, die gemäß den Prinzipien auffindbar (findable), zugänglich (accessible), interoperabel (interoperable) und wiederverwendbar (reusable) sein sollen. Zentral ist dabei das Beschreiben von Forschungsdaten mit Metadaten sowie hinreichende dokumentarische Schritte. Auch nicht öffentlich zugängliche Forschungsdaten können den FAIR-Prinzipien entsprechen, wenn etwa die damit verbundenen Metadaten veröffentlicht werden." 
+Redaktion von forschungsdaten.info. "Glossar". forschungsdaten.info, 17. Juli 2025. (https://forschungsdaten.info/praxis-kompakt/glossar/) 
+
+### Didaktische Methoden (online) für Sozialform: Plenum
