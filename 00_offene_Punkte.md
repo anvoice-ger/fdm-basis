@@ -18,3 +18,6 @@
 Inhaltsbereiche 
 - immer einheitlich aufgebaut: nach einander werden die Inhalte eingeblendet und bleiben bis zum Ende der Sektion stehen.
 
+Bilder
+- wie gehen wir mit Bildern um, einbetten oder verlinken?
+
