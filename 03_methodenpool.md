@@ -1,5 +1,8 @@
 # Methodensammlungen für den FDM-Basiskurs
 
+* "Frage-Ball"-Prinzip: Fragen werden mit Stichworten beantwortet und jede Person, die antwortet, ruft selbständig die nächste Person auf, die den virtuellen Ball zugespielt bekommt und ihrerseits antwortet (TtT-Konzept Forschungsdatenmanagement, Workshopmaterialien Einheit 4: Digitale Forschungsdaten, S. 242.)
+* Chatsturm (TtT 5 S. 163) 
+
 ## Sammlungen
 
 * (Kersten) Reich und Partner https://methodenpool.de/ 
