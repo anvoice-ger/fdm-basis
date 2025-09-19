@@ -19,7 +19,7 @@ comment:  OER.net FDM-Basiskurs
 ## Institutionelle Forschungsdatenmanagement-Dienste (vgl. TTT, 5.0, S. 125-132)
 
 #Folgende Einrichtungen sind in der Regel daran beteiligt, FDM-Services anzubieten
-- Forschungsdatenmanager*innen
+- Forschungsdatenmanager:innen
 - Bibliothek
 - IT/Rechenzentrum
 - Forschungsförderung
@@ -33,63 +33,47 @@ comment:  OER.net FDM-Basiskurs
 - Technische Infrastruktur und Sicherheit
 - rechtliche Themen 
 
-## Nationale Forschungsdateninfrastruktur (NFDI) (vgl. NFDI 2025) 
-- aktuell (2025) 26 Fachkonsortien und der Verbund von Konsortien, Base4NFDI
-- decken vielfältige Fachdisziplinen ab z.B. Kultur-, Lebens- und Ingenieurwissenschaften 
-- entwicklen Dienste und Standards für die Wissenschaft
-- bieten Helpdesks für Forschende an
-
-## Regionale Forschungsdatenemanagement-Dienste (vgl. KIM 2025a) 
-#FDM-Landesinitativen 
-- koordinieren Aktivitäten im Bundesland
-- ergänzen nationale Strukturen auf regionaler Ebene
-- vermitteln Kompetenzen
-- sind untereinander vernetzt
-
 ## Didaktische Methoden zur Vertiefung
 Es folgt eine Auswahl an möglichen interaktiven Methoden für verschiedene Sozialformen, die zur Erarbeitung und Wissensfestigung eingesetzt werden können.
 
 ### Sozialform: Plenum
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Erreichung des Lernziels bei einer Großgruppe mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
-
+Methode: Chat-Sturm oder Zuruf
+Die Trainer:in fragt: *„Welche Rollen fallen Euch im FDM ein?“*. Antworten werden im Chat oder per Zuruf gesammelt. Anschließend werden die genannten Rollen in einer Übersicht (Folie/Whiteboard) systematisiert und durch fehlende ergänzt. (Videokonferenztool mit Whiteboard)
 | Parameter                         |          |
 | -----------------------------     | -------- |
-| Ziel der didaktischen Methode     |          |
-| Gruppengröße                      | x bis xx |
-| Zeit                              | x bis xx |
-| *Parameter x*                     | x bis xx |
+| Ziel der didaktischen Methode     | Überblick über Rollen schaffen |
+| Gruppengröße                      | 5 bis 50 |
+| Zeit                              | 5 bis 10 Minuten|
 
 ## Sozialform: Kleingruppenarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Arbeit in Kleingruppen mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
-
+Methode: Rollen-Matching
+Kleingruppen erhalten Karten mit Rollen (z. B. Bibliothek, IT, Recht) und Karten mit Aufgaben (z. B. Speicherlösungen, Lizenzberatung, DMP). Auftrag: Rollen den passenden Aufgaben zuordnen und Überschneidungen diskutieren. Ergebnisse werden im Plenum vorgestellt. (Videokonferenztool mit Breakoutrooms, Whiteboard oder Miro)
 | Parameter                         |          |
 | -----------------------------     | -------- |
-| Ziel der didaktischen Methode     |          |
-| Gruppengröße                      | x bis xx |
-| Zeit                              | x bis xx |
-| *Parameter x*                     | x bis xx |
+| Ziel der didaktischen Methode     | Überblick über Rollen und mit diesen verbundenen Aufgaben verfestigen|
+| Gruppengröße                      | 5 bis 10 |
+| Zeit                              | 15 bis 20 Minuten|
 
 
 ## Sozialform: Partner:innenarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels bei Zusammenarbeit von 2 Lernenden mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+Methode: Rollenwechsel
+Teilnehmende übernehmen abwechselnd eine Rolle (z. B. „Ich bin Forschungsdatenmanager:in“). Partner:in interviewt mit Leitfragen: *„Welche Aufgaben übernimmst Du?“, „Wann kommen Forschende zu Dir?“*. Danach Rollenwechsel. Kurze Reflexion im Plenum. (Videokonferenztool mit Breakout oder Direktchat)
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
-| Ziel der didaktischen Methode     |          |
-| Gruppengröße                      | x bis xx |
-| Zeit                              | x bis xx |
-| *Parameter x*                     | x bis xx |
-
+| Ziel der didaktischen Methode     | Überblick über Rollen und mit diesen verbundenen Aufgaben verfestigen|
+| Gruppengröße                      | 2 bis 3 |
+| Zeit                              | 15 bis 20 Minuten |
 
 ## Sozialform: Einzelarbeit
-_Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Lernziels in Einzelarbeit mit Angaben zum geplanten Toolseinsatz in Klammern am Ende der Methode, OPTIONAL: Parameter wie Ziel der Methode, Gruppengröße und Zeit bestimmen_
+Methode: Quiz/Kreuzworträsel 
+Lernende bearbeiten individuell ein kurzes Quiz oder Kreuzworträtsel zu FDM-Rollen und deren Aufgaben (z. B. via Mentimeter oder Arbeitsblatt). Anschließend Besprechung im Plenum.  
 
 | Parameter                         |          |
 | -----------------------------     | -------- |
-| Ziel der didaktischen Methode     |          |
-| Gruppengröße                      | x bis xx |
-| Zeit                              | x bis xx |
-| *Parameter x*                     | x bis xx |
+| Ziel der didaktischen Methode     |Überblick über Rollen und mit diesen verbundenen Aufgaben verfestigen|
+| Gruppengröße                      | 1 |
+| Zeit                              | 5 bis 10 Minuten |
 
 
 ## Hinweise
@@ -101,9 +85,9 @@ _optional: Hinweise zur Durchführung der Methoden wie z. B. Installation der So
 _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Videokonferenztool)_
 
 - [x] Videokonferenztool (z. B. BigBlueButton, Zoom)  
-- [ ] Präsentationstool (z. B. PowerPoint, LiaScript)  
-- [ ] Quiz-/Umfragetool (z. B. LiaScript (Class room), Mentimeter)  
-- [ ] virtuelles Whiteboard (z. B. Miro)  
+- [x] Präsentationstool (z. B. PowerPoint, LiaScript)  
+- [x] Quiz-/Umfragetool (z. B. LiaScript (Class room), Mentimeter)  
+- [x] virtuelles Whiteboard (z. B. Miro)  
 - [ ] Tool für kollaboratives Texten (z. B. ZUMpad)  
 - [ ] Lernplattform (z. B. Moodle)  
 - [ ] Sonstige Werkzeuge  
