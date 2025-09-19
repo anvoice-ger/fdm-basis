@@ -14,12 +14,33 @@ comment:  OER.net FDM-Basiskurs
 **Lernende können Rollen im Forschungsdatenmanagement (FDM) benennen.**
 
 ## Inhalt und Bezug
-_Ausformulierung der relevanten Inhalte und Bezüge wie Definition, Aufzählungen o. ä. mit Quellenangaben in Form der Angabe der DOI und des Links._
+"Ausgehend vom Forschungsdatenlebenszyklus beschreibt ein Forschungsdatenworkflow konkreter die einzelnen Verarbeitungsschritte der Forschungsdaten in Abhängigkeit von der gewählten Software und den benötigten Infrastrukturen und Services. Dabei wird eine prozessorientierte Perspektive eingenommen, die es den Datenersteller*innen erlaubt, auch Datenübergaben und -konvertierung, die bspw. zwischen Datenverarbeitung und -analyse notwendig sind, ganz konkret abzubilden. In einem Workflow werden auch Verantwortlichkeiten (Rollen und Akteur*innen) festgehalten." (T2T 5.0, S. 24-25) 
 
-### Inhalt und Bezug I
+## Institutionelle Forschungsdatenmanagement-Dienste (vgl. TTT, 5.0, S. 24-25, S. 125-132)
 
+#Folgende Einrichtungen sind in der Regel daran beteiligt, FDM-Services anzubieten
+- Forschungsdatenmanager*innen
+- Biblitohek
+- IT/Rechenzentrum
+- Forschungsförderung
+- rechtliche Analufstellen (Datenschutzbeauftragte, Justiziariat) 
 
-### Inhalt und Bezug II
+#Diese beraten zu folgenden Aufgaben: 
+- DMP (Datenmanagementpläne), FAIR-Prinzipien, Prinzipien der guten wissenschaftlichen Praxis
+- Wahl geeigneter Repositorien
+- Publikation und Lizenzierung
+- Speicherlösungen
+- Technische Infrastruktur und Sicherheit
+- rechtliche Themen 
+
+## Regionale Forschungsdatenemanagement-Dienste (vgl. KIM 2025a) 
+#FDM-Landesinitativen 
+- koordinieren Aktivitäten im Bundesland
+- ergänzen nationale Strukturen
+- vermitteln Kompetenzen
+- sind untereinander vernetzt
+
+Die Landesinitativen sind untereina können unter folgendem Link recherchiert werden: https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke/ 
 
 ## Didaktische Methoden zur Vertiefung
 Es folgt eine Auswahl an möglichen interaktiven Methoden für verschiedene Sozialformen, die zur Erarbeitung und Wissensfestigung eingesetzt werden können.
@@ -84,6 +105,8 @@ _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Vide
 - [ ] Sonstige Werkzeuge  
 
 ---
+Quellen: 
+Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.10122153, S
 
 
 ## Methodenpool
