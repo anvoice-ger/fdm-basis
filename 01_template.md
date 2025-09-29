@@ -44,7 +44,7 @@ Dateiname ist die ID des Lernzieles wie in der LZM angegeben, im Bearbeitungssta
 ## Inhalt und Kontext
 _Kurze Einführung in das Thema: Ausformulierung der relevanten Inhalte und Bezüge wie Definition, Aufzählungen o. ä. Was ist relevant, warum ist es wichtig? Quellenangaben in Form der Angabe der DOI und des Links._
 
-### Inhalt und Kontext I
+### Inhalt
 
 Kurze Erläuterung des Begriffs/Prinzips  
 
@@ -52,7 +52,7 @@ Kurze Erläuterung des Begriffs/Prinzips
 - Stichpunktartige Merkmale
 - Wichtige Aspekte / Bedingungen
 
-### Inhalt und Kontext II
+### Kontext <!-- optional -->
 
 Nähere Beschreibung, Beispiele, Klassifizierung
 
@@ -107,8 +107,8 @@ _Ablauf und Ausführung der gewählten didaktischen Methode zur Umsetzung des Le
 | *Parameter x*                     | x bis xx |
 
 
-## Hinweise
-_optional: Hinweise zur Durchführung der Methoden wie z. B. Installation der Software, Vorbereitung, u. ä._
+## Hinweise <!-- optional -->
+_optional: ergänzende Hinweise zur Durchführung der Methoden wie z. B. Installation der Software, Vorbereitung, u. ä._
 
 
 ## Werkzeuge für das virtuelle Klassenzimmer  
