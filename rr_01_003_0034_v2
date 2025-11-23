@@ -1,0 +1,87 @@
+!--
+author: Rebekka Reichert
+email:    
+version:  v1
+language: DE
+icon:     
+link:     
+comment:  OER.net FDM-Basiskurs
+-->
+
+# 01_003_0034 (LZM)
+
+Rollen im FDM
+
+## Lernziel
+
+Lernende können Rollen im Forschungsdatenmanagement (FDM) benennen
+
+## Inhaltliche Ausformulierung des Lernziels
+
+"Ausgehend vom Forschungsdatenlebenszyklus beschreibt ein Forschungsdatenworkflow konkreter die einzelnen Verarbeitungsschritte der Forschungsdaten in Abhängigkeit von der gewählten Software und den benötigten Infrastrukturen und Services. Dabei wird eine prozessorientierte Perspektive eingenommen, die es den Datenersteller*innen erlaubt, auch Datenübergaben und -konvertierung, die bspw. zwischen Datenverarbeitung und -analyse notwendig sind, ganz konkret abzubilden. In einem Workflow werden auch Verantwortlichkeiten (Rollen und Akteur*innen) festgehalten." (T2T 5.0, S. 24-25) 
+
+## Rollen im Forschungsdatenmanagement
+Das Managen von Forschungsdaten erfordert ein Zusammenspiel verschiedenen Rollen, die unterschiedliche Verantwortlichkeiten und Aufgaben übernehmen: Von der Datenplanung bis zur Archivierung und Nachnutzung. 
+
+##Institutionelles Forschungsdatenmanagement
+
+Folgende Einrichtungen sind in der Regel daran beteiligt, FDM-Services anzubieten
+- Forschungsdatenmanager*innen
+- Biblitohek
+- IT/Rechenzentrum
+- Forschungsförderung
+- rechtliche Analufstellen (Datenschutzbeauftragte, Justiziariat) 
+
+Diese beraten zu folgenden Aufgaben: 
+- DMP, FAIR-Prinzipien, Prinzipien der guten wissenschaftlichen Praxis
+- Wahl geeigneter Repositorien
+- Publikation und Lizenzierung
+- Speicherlösungen
+- Technische Infrastruktur und Sicherheit
+- rechtliche Themen (TTT, S. 125-132). 
+
+##Regionale, nationale und internationale FDM-Dienste
+FDM-Landesinitiativen
+- koordinieren kooperativ FDM-Aktivitäten im Bundesland
+- vermitteln instutionsübergreifend Kompetenzen und schaffen gemeinsame Strukturen
+- ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort: https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke/ [1]
+
+Nationale Forschungsdateninfrastruktur (NFDI)
+- Fachkonsortien, entwicklen Diensts und Standards für die Wissenschaft, haben Helpdesks, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
+- Community Cluster, arbeiten zu übergreifenden Themen z.B. Digitales Sammlungsmanagement, Digitale Provenienzforschung: https://www.nfdi4objects.net/portal/ccs/ [2
+      
+                                                                                                                                                                   
+## Didaktische Methoden
+
+### Didaktische Methoden (online) für Sozialform: Word-Cloud
+
+Die Teilnehmenden erstellen eine Word-Cloud aus den Netzwerken, an denen sie beteiligt sind.
+
+
+### Ziel
+
+
+optional: Hinweise zur Durchführung der Methoden wie z. B. Installation der Software, Vorbereitung, u. ä.
+
+## Werkzeuge für das virtuelle Klassenzimmer
+
+Aus der folgenden Liste einfach alle wegstreichen, die nicht benötigt werden -> Quelle der Liste, die bei Bedarf noch weiter ausgebaut werden sollte: https://github.com/anvoice-ger/fdm-basis/blob/main/02_digitale-tools.md
+
+Videokonferenztool (z. B. Zoom, Webex, Big Blue Button u. a.)
+Präsenationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
+Quiz- und Umfragetool (z. B. Mentimeter, Kahoot ...)
+Whiteboard (z. B. Miroboard, Conceptboard, Collaborad)
+Tool für kollaboratives (Er)Arbeiten von Texten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
+Lernplattform (z. B. Moodle, ILIAS, OLAT...)
+Sonstiges (Github...)
+
+## Methodenpool
+
+Aufzählung der verwendeten Methoden mit Quellenangaben z. B. Chatsturm (T2T 5 S. 163)
+
+Das ist eine Fußnote[^1]
+Blablablabla blabla[^2]
+[^1]: Fußnotentext
+[^2]: Voll die gute Erklärung
+
+<--- Kommentar --->
