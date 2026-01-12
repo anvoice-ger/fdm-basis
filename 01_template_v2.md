@@ -54,7 +54,7 @@ Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01
 
 ### Vorausgesetzte Lernziele <!-- optional -->
 
-*Optional können hier Lernziele angegeben werden, die für das Verständnis dieser Einheit vorausgesetzt werden.* 
+*Optional können hier Lernziele angegeben oder verlinkt werden, die für das Verständnis dieser Einheit vorausgesetzt werden.* 
 
 > **Dieses Modul setzt voraus, dass Lernende bereits mit folgenden Konzepten vertraut sind**:
 >
@@ -292,5 +292,6 @@ _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Vide
 Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Autor:in: Autor:in (ORCID)
 Kontakt: <!-- optional -->
+
 
 
