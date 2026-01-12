@@ -37,12 +37,12 @@ Die folgenden Abschnitte sind für die Entwicklung von eigenen Micro-Content-Ein
 
 # Kurztitel der Einheit
 
-Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01-008-0149_Open-Data-Plattformen`
+Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01_008_0149-Open-Data-Plattformen`
 
 \
 \
 
-***OER-net intern***: Im Bearbeitungsstatus Namenskürzel davor schreiben z. B `bp_01-008-0149_Open-Data-Plattformen`
+***OER-net intern***: Im Bearbeitungsstatus Namenskürzel davor schreiben z. B `bp_01_008_0149-Open-Data-Plattformen`
 
 ## Lernziel dieser Einheit
 
@@ -292,4 +292,5 @@ _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Vide
 Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Autor:in: Autor:in (ORCID)
 Kontakt: <!-- optional -->
+
 
