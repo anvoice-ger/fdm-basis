@@ -11,9 +11,9 @@ icon: https://avatars.githubusercontent.com/u/124135835?s=400&u=4b7d7dba97d3d144
 
 link: https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/hier kann man ein eigenes css einhängen, wenn man möchte
 
-licence: CC BY
+license: CC BY
 
-comment: Dieser Text erscheint als Info innerhalb der Liascript-Module oben rechts hinter dem (i) und sollte den Inhalt des Moduls kurz beschreiben. Vorschlag: Mirco-Centent zum Lernziel "Lernende können FAIR-Prinzipien erläutern". Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.Net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training.
+comment: Dieser Text erscheint als Info innerhalb der Liascript-Module oben rechts hinter dem (i) und sollte den Inhalt des Moduls kurz beschreiben. Vorschlag: Mirco-Content zum Lernziel "Lernende können FAIR-Prinzipien erläutern". Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.Net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training.
 
 title: Template für die Erarbeitung eines Micro-Contents anhand eines Lernziels für generischen FDM-Basiskurs
 
@@ -93,7 +93,7 @@ Nähere Beschreibungen Kontexte, Beispiele, Klassifizierung
 Eine individuelle Strukturierung dieses Abschnitts ist durch das Anlegen weiterer Unterkapitel möglich. 
 
 # Didaktische Umsetzung
-Bescheribung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
+Beschreibung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
 
 ## Sozialform: Plenum
 _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
@@ -292,3 +292,4 @@ _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Vide
 Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Autor:in: Autor:in (ORCID)
 Kontakt: <!-- optional -->
+
