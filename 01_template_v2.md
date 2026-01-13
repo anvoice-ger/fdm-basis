@@ -91,8 +91,6 @@ Nähere Beschreibungen Kontexte, Beispiele, Klassifizierung
 - Beispiel B (inkl. Link)
 - Besonderheiten (z. B. Lizenzierung, Zugang)
 
-\
-
 Eine individuelle Strukturierung dieses Abschnitts ist durch das Anlegen weiterer Unterkapitel möglich. 
 
 ---
@@ -199,6 +197,8 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 </div>
 
 </div>
+
+---
 
 ## Sozialform: Kleingruppenarbeit
 _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
@@ -322,6 +322,7 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Autor:in: Autor:in (ORCID)
 
 Kontakt: <!-- optional -->
+
 
 
 
