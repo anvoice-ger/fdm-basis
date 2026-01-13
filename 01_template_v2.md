@@ -40,20 +40,21 @@ Die folgenden Abschnitte sind für die Entwicklung von eigenen Micro-Content-Ein
 Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01_008_0149-Open-Data-Plattformen`
 
 \
-\
 
 ***OER-net intern***: Im Bearbeitungsstatus Namenskürzel davor schreiben z. B `bp_01_008_0149-Open-Data-Plattformen`
 
-## Lernziel dieser Einheit
+---
 
+## Lernziel dieser Einheit
 *Nennung des in diesem Modul bearbeiteten Lernziels*
 
 > **Der folgende Lehr-/Lerninhalt adressiert das folgende Lernziel:**
 >
 > - Lernende können […] `LZM-ID: 01_000_0000`  (LZM-FDM v3, 2025)
 
-### Vorausgesetzte Lernziele <!-- optional -->
+---
 
+### Vorausgesetzte Lernziele <!-- optional -->
 *Optional können hier Lernziele angegeben oder verlinkt werden, die für das Verständnis dieser Einheit vorausgesetzt werden.* 
 
 > **Dieses Modul setzt voraus, dass Lernende bereits mit folgenden Konzepten vertraut sind**:
@@ -63,8 +64,9 @@ Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01
 >
 > - *Alternativ kann auch das Material XYZ als Einführung genutzt werden: [Link zum Material]*
 
-### Weiterführende Lernziele <!-- optional -->
+---
 
+### Weiterführende Lernziele <!-- optional -->
 *Optional können hier Lernziele angegeben werden, die den Lernenden Vorschläge zum Weiterlernen anbieten.* 
 
 > **Folgende Lernziele bieten sich für das direkte Weiterlernen an:**
@@ -72,6 +74,7 @@ Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. `01
 > - [Lernziel 1](https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul..) 
 > - [Lernziel 2](https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul..)
 
+---
 
 # Inhalte und Kontext
 *Einführung in das Thema: Ausformulierung der relevanten Inhalte und Bezüge; Definitionen, Aufzählungen o. ä.; Kontext im Forschungsalltag; Beispiele und Besonderheiten. Quellenangaben in Form der Angabe der DOI und eines Links.*
@@ -92,8 +95,12 @@ Nähere Beschreibungen Kontexte, Beispiele, Klassifizierung
 
 Eine individuelle Strukturierung dieses Abschnitts ist durch das Anlegen weiterer Unterkapitel möglich. 
 
+---
+
 # Didaktische Umsetzung
 Beschreibung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
+
+---
 
 ## Sozialform: Plenum
 _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
@@ -102,7 +109,6 @@ _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nac
 
 Kurzbeschreibung
 ---
-
 _Kurzbeschreibung der Methode_
 
 Vorbereitungsaufwand
@@ -111,12 +117,10 @@ _gering/mittel/hoch_
 
 Zeit
 ---
-
 _xx - xx Minuten_
 
 Ziel(e)
 ---
-
 _z. B. Aktivierung_
 
 Ablauf
@@ -125,12 +129,10 @@ _Nachvollziehbare Beschreibung des Ablaufs_
 
 Benötigtes Material
 ---
-
 _Nennung der benötigten Materialien, z. B. Moderationskarten_
 
-ACHTUNG! Alternativ oder ergänzend:
+ACHTUNG! (Alternativ oder ergänzend)
 ---
-
 Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden erstellt.
 
 Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
@@ -203,18 +205,31 @@ _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Method
 
 _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nachhnutzende sie ohne weitere externe Erläuterungen nachnutzen können. Gegebenenfalls Links auf hilfreiche Materialien und/oder Quellen integrieren._
 
-- Kurzbeschreibung: _Kurzbeschreibung der Methode_
+Kurzbeschreibung
+---
+_Kurzbeschreibung der Methode_
 
-- Vorbereitungsaufwand: _gering/mittel/hoch_
+Vorbereitungsaufwand
+---
+_gering/mittel/hoch_
 
-- Zeit: _xx - xx Minuten_
+Zeit
+---
+_xx - xx Minuten_
 
-- Ziel(e): _z. B. Aktivierung_
+Ziel(e)
+---
+_z. B. Aktivierung_
 
-- Ablauf: _Nachvollziehbare Beschreibung des Ablaufs_
+Ablauf
+---
+_Nachvollziehbare Beschreibung des Ablaufs_
 
-- Benötigtes Material: _Nennung der benötigten Materialien, z. B. Moderationskarten_
+Benötigtes Material
+---
+_Nennung der benötigten Materialien, z. B. Moderationskarten_
 
+---
 
 ## Sozialform: Partner:innenarbeit
 _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
@@ -225,57 +240,69 @@ _Für die Beschreibungen bitte Angaben zu folgenden Punkten machen:_
 
 Kurzbeschreibung
 ---
-
  _Kurzbeschreibung der Methode_
 
 Vorbereitungsaufwand
 ---
-
  _gering/mittel/hoch_
 
 Zeit
 ---
-
  _xx - xx Minuten_
 
 Ziel(e)
 ---
-
  _z. B. Aktivierung_
 
 Ablauf
 ---
-
 _Nachvollziehbare Beschreibung des Ablaufs_
 
 Benötigtes Material
 ---
 _Nennung der benötigten Materialien, z. B. Moderationskarten_
 
+---
+
 ## Sozialform: Einzelarbeit
 _Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
 
 _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nachhnutzende sie ohne weitere externe Erläuterungen nachnutzen können. Gegebenenfalls Links auf hilfreiche Materialien und/oder Quellen integrieren._
 
-- Kurzbeschreibung: _Kurzbeschreibung der Methode_
+Kurzbeschreibung
+---
+_Kurzbeschreibung der Methode_
 
-- Vorbereitungsaufwand: _gering/mittel/hoch_
+Vorbereitungsaufwand
+---
+_gering/mittel/hoch_
 
-- Zeit: _xx - xx Minuten_
+Zeit
+---
+_xx - xx Minuten_
 
-- Ziel(e): _z. B. Aktivierung_
+Ziel(e)
+---
+_z. B. Aktivierung_
 
-- Ablauf: _Nachvollziehbare Beschreibung des Ablaufs_
+Ablauf
+---
+_Nachvollziehbare Beschreibung des Ablaufs_
 
-- Benötigtes Material: _Nennung der benötigten Materialien, z. B. Moderationskarten_
+Benötigtes Material
+---
+_Nennung der benötigten Materialien, z. B. Moderationskarten_
+
+---
 
 ## Hinweise <!-- optional -->
 _optional: ergänzende Hinweise, wie z. B. Installation von spezieller Software u. ä._
 
 Diese Sektion können wir ggf. auch wieder rausnehmen...???
 
-## Werkzeuge für das virtuelle Klassenzimmer  
+---
 
+## Werkzeuge für das virtuelle Klassenzimmer  
 _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Videokonferenztool)_
 
 - [x] Videokonferenztool (z. B. BigBlueButton, Zoom)  
@@ -286,12 +313,16 @@ _Angabe benötiger Werkzeuge durch X in der eckigen Klammer (siehe Beispiel Vide
 - [ ] Lernplattform (z. B. Moodle)  
 - [ ] Sonstige Werkzeuge  
 
+---
 
 # Lizenzhinweise & Autor:innen
 
 Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 Autor:in: Autor:in (ORCID)
+
 Kontakt: <!-- optional -->
+
 
 
 
