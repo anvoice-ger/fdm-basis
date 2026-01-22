@@ -1,17 +1,4 @@
-
-Template für die Erarbeitung eines Micro-Contents für generischen FDM-Basiskurs
-
-Dieses Template wurde als Vorlage für die Entwicklung von Microlearning-Content zum Themenbereich Forschungsdatenmanagement (FDM) in Orientierung an Lernzielen der Lernzielmatrix zum Forschungsdatenmanagement (FDM) entwickelt.
-
-Die folgenden Abschnitte sind für die Entwicklung von eigenen Micro-Content-Einheiten entsprechend der Erläuterungen auszufüllen. Die bereits vorhandenen Texte (Erläuterungen zum Ausfüllen) sollten durch eigene Inhalte ersetzt werden.
-Kurztitel der Einheit
-
-Kurztitel der Einheit: ID des Lernziels LZM-FDM + Thema des Lernziels, z. B. 01_008_0149-Open-Data-Plattformen
-
-\
-
-OER-net intern: Im Bearbeitungsstatus Namenskürzel davor schreiben z. B bp_01_008_0149-Open-Data-Plattformen
-Lernziel dieser Einheit
+01_004_0058-Ziele-Forschungsdatenpolicies.mdn
 
 Nennung des in diesem Modul bearbeiteten Lernziels
 
