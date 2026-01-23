@@ -13,9 +13,9 @@
 
 > **Folgende Lernziele bieten sich für das direkte Weiterlernen an:**
 >
-> - [Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern.] `LZM-ID: 01_004_0059` (LZM-FDM v3, 2025) (https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT) 
-> - [Lernende können unter Anleitung Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0069` (LZM-FDM v3, 2025) (https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0069.md ALT)
-> - [Lernende können eigenständig Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0068` (LZM-FDM v3, 2025) (https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0068.md ALT)
+> - [Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern.] `LZM-ID: 01_004_0059` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT.. ) 
+> - [Lernende können unter Anleitung Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0069` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0069.md ALT.. )
+> - [Lernende können eigenständig Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0068` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0068.md ALT.. )
 
 # Inhalte und Kontext
 
