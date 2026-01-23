@@ -20,14 +20,14 @@
 # Inhalte und Kontext
 
 ## Definitionen
-„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
+„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ [1]
 
 „Eine Forschungsdaten-Policy enthält Vorgaben zum Umgang mit Forschungsdaten. Es gibt verschiedene Arten von Policies, zum Beispiel:
 * Zeitschriften- und Verlags-Policies
 * Institutionelle Policies
 * Projektspezifische Policies
 * Fachspezifische Policies
-* Policies von Forschungsförderern“ [1, S. 33]
+* Policies von Forschungsförderern“ [2, S. 33]
   
 ## Ziele
 
@@ -37,9 +37,9 @@
 * Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
 
 „Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität
-**eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [2]
+**eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [3]
 
-„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [3]  
+„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]  
 
 Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. (KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies?)
 
@@ -50,7 +50,7 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 3. Rechtliche Aspekte
 4. Umgang mit Forschungsdaten
 5. Verantwortlichkeiten
-6. Gültigkeit“ [1, S. 35] 
+6. Gültigkeit“ [2, S. 35] 
    
 „Laut 'Current Best Practise für Research Data Management Policies' enthält eine gelungene FDM-Richtlinie die folgenden Kernelemente:
   * Eine Definition des Begriffs Forschungsdaten
@@ -60,14 +60,17 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
   * Einen Überblick über verfügbare Infrastruktur und über die Verantwortlichkeit für entstehende Kosten
   * Eine Verpflichtung, Datenmanagementpläne zu verwenden
   * Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
-  * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.“ [4] 
+  * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.“ [1] 
 
 ---
 
 Quellnangaben:
-[1] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) https://doi.org/10.5281/zenodo.10122153
-[2] Forschungsdaten-Policy der Universität Mannheim. (2024). (Version 1) Abgerufen am 23.01.2026 https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
-[3] Universität Wien. Die FDM Policy der Universität Wien. Abgerufen am 23.01.2026 https://rdm.univie.ac.at/de/fdm-policy-und-faq/
-[4] forschungsdaten.info. (2025). Leitlinien und Policies. Abgerufen am 23.01.2026 https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/ 
+[1] forschungsdaten.info. (2025). Leitlinien und Policies. Abgerufen am 23.01.2026 https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/ 
+
+[2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) https://doi.org/10.5281/zenodo.10122153
+
+[3] Forschungsdaten-Policy der Universität Mannheim. (2024). (Version 1) Abgerufen am 23.01.2026 https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+
+[4] Universität Wien. Die FDM Policy der Universität Wien. Abgerufen am 23.01.2026 https://rdm.univie.ac.at/de/fdm-policy-und-faq/
 
 ---
