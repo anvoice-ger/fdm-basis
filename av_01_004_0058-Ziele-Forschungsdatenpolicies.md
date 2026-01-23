@@ -13,9 +13,9 @@
 
 > **Folgende Lernziele bieten sich für das direkte Weiterlernen an:**
 >
-> - [Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern.] `LZM-ID: 01_004_0059` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT.. ) 
-> - [Lernende können unter Anleitung Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0069` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0069.md ALT.. )
-> - [Lernende können eigenständig Recherchen zu Forschungsdaten-Policies durchführen.] `LZM-ID: 01_004_0068` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0068.md ALT.. )
+> - Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern. `LZM-ID: 01_004_0059` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT.. ) 
+> - Lernende können unter Anleitung Recherchen zu Forschungsdaten-Policies durchführen. `LZM-ID: 01_004_0069` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0069.md ALT.. )
+> - Lernende können eigenständig Recherchen zu Forschungsdaten-Policies durchführen. `LZM-ID: 01_004_0068` (LZM-FDM v3, 2025) (https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0068.md ALT.. )
 
 # Inhalte und Kontext
 
@@ -27,8 +27,8 @@
 * Institutionelle Policies
 * Projektspezifische Policies
 * Fachspezifische Policies
-* Policies von Forschungsförderern“ (T2T 5 S. 33)
-
+* Policies von Forschungsförderern“ [1, S. 33]
+  
 ## Ziele
 
 * Umgang mit Forschungsdaten zu standardisieren
@@ -37,9 +37,9 @@
 * Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
 
 „Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität
-**eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ (Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf)
+**eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [2]
 
-„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ (Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/)
+„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [3]  
 
 Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. (KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies?)
 
@@ -50,7 +50,7 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 3. Rechtliche Aspekte
 4. Umgang mit Forschungsdaten
 5. Verantwortlichkeiten
-6. Gültigkeit“ (T2T 5 S. 35)
+6. Gültigkeit“ [1, S. 35] 
    
 „Laut 'Current Best Practise für Research Data Management Policies' enthält eine gelungene FDM-Richtlinie die folgenden Kernelemente:
   * Eine Definition des Begriffs Forschungsdaten
@@ -60,7 +60,14 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
   * Einen Überblick über verfügbare Infrastruktur und über die Verantwortlichkeit für entstehende Kosten
   * Eine Verpflichtung, Datenmanagementpläne zu verwenden
   * Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
-  * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.“ (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
+  * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.“ [4] 
 
 ---
 
+Quellnangaben:
+[1] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) https://doi.org/10.5281/zenodo.10122153
+[2] Forschungsdaten-Policy der Universität Mannheim. (2024). (Version 1) Abgerufen am 23.01.2026 https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+[3] Universität Wien. Die FDM Policy der Universität Wien. Abgerufen am 23.01.2026 https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+[4] forschungsdaten.info. (2025). Leitlinien und Policies. Abgerufen am 23.01.2026 https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/ 
+
+---
