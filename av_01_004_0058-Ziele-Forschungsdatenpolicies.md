@@ -79,10 +79,10 @@ Quellenangaben:
 # Didaktische Umsetzung
 Beschreibung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
 
-**Hinweise zur Recherche: Folgende Liste eignet sich für Recherche nach bereits publizierten Policies:
+**Hinweise zur Recherchei: Für die Recherche nach bereits publizierten Policies in den nachfolgenden Methoden eignet sich folgende Liste:
 Quelle: https://www.forschungsdaten.org/index.php/Data_Policies** 
 
-Folgende Policies enthalten in etwa die in Quelle [2] genannten Elemente:
+Policies, die in etwa die in Quelle [2] genannten Elemente enthalten:
   * Policy der Uni Mannheim: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
   * Policy der Uni Wien: https://rdm.univie.ac.at/de/fdm-policy-und-faq/
   * Policy der FU Berlin:  https://refubium.fu-berlin.de/bitstream/handle/fub188/30821/Forschungsdaten-Policy_der_Freien_Universitaet_Berlin.pdf?sequence=2&isAllowed=y
@@ -98,7 +98,7 @@ _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nac
 
 Kurzbeschreibung
 ---
-Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor. Die TN gleichen ca. zwei oder drei Policies aus der Liste (s. o.)  mit den Zielen von Policies ab und tragen die in den Policies genannten Elemente mündlich (oder im Chat) zusammen (Videokonferenztool). Ame Ende eroflgt eine Ergebnissicherung.
+Die Lernenden gleichen Inhalte (Ziele und Elemente) von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
 
 Vorbereitungsaufwand
 ---
