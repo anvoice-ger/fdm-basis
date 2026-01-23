@@ -3,7 +3,7 @@
 ## Lernziel dieser Einheit
 > **Der folgende Lehr-/Lerninhalt adressiert das folgende Lernziel:**
 >
-> - Lernende können [die Elemente und Ziele von Forschungsdaten-Policies benennen.] `LZM-ID: 01_000_0000` (LZM-FDM v3, 2025)
+> - Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen. `LZM-ID: 01_004_0058` (LZM-FDM v3, 2025)
 
 ### Weiterführende Lernziele <!-- optional -->
 *Optional können hier Lernziele angegeben werden, die den Lernenden Vorschläge zum Weiterlernen anbieten.* 
