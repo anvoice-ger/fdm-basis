@@ -64,7 +64,7 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 
 ---
 
-Quellnangaben:
+Quellenangaben:
 [1] forschungsdaten.info. (2025). Leitlinien und Policies. Abgerufen am 23.01.2026 https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/ 
 
 [2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5) https://doi.org/10.5281/zenodo.10122153
@@ -72,5 +72,121 @@ Quellnangaben:
 [3] Forschungsdaten-Policy der Universität Mannheim. (2024). (Version 1) Abgerufen am 23.01.2026 https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
 
 [4] Universität Wien. Die FDM Policy der Universität Wien. Abgerufen am 23.01.2026 https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+
+---
+
+
+# Didaktische Umsetzung
+Beschreibung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
+
+**Hinweise zur Recherche: Folgende Liste eignet sich für Recherche nach bereits publizierten Policies:
+Quelle: https://www.forschungsdaten.org/index.php/Data_Policies** 
+
+Folgende Policies enthalten in etwa die in Quelle [2] genannten Elemente:
+  * Policy der Uni Mannheim: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+  * Policy der Uni Wien: https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+  * Policy der FU Berlin:  https://refubium.fu-berlin.de/bitstream/handle/fub188/30821/Forschungsdaten-Policy_der_Freien_Universitaet_Berlin.pdf?sequence=2&isAllowed=y
+  * Policy der Uni München: https://epub.ub.uni-muenchen.de/116800/1/Leitfaden_fuer_FDM_in_den_DH__Version1-2_.pdf
+  * Policy der RWTH Aachen:  https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
+  * Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
+---
+
+## Sozialform: Plenum
+_Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
+
+_Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nachhnutzende sie ohne weitere externe Erläuterungen nachnutzen können. Gegebenenfalls Links auf hilfreiche Materialien und/oder Quellen integrieren._
+
+Kurzbeschreibung
+---
+Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor. Die TN gleichen ca. zwei oder drei Policies aus der Liste (s. o.)  mit den Zielen von Policies ab und tragen die in den Policies genannten Elemente mündlich (oder im Chat) zusammen (Videokonferenztool). Ame Ende eroflgt eine Ergebnissicherung.
+
+Vorbereitungsaufwand
+---
+gering (ggf. Folien vorbereiten und zu untersuchende Policies auswählen)
+
+Zeit
+---
+_xx - xx Minuten_
+
+Ziel(e)
+---
+_z. B. Aktivierung_
+
+Ablauf
+---
+_Nachvollziehbare Beschreibung des Ablaufs_
+
+Benötigtes Material
+---
+_Nennung der benötigten Materialien, z. B. Moderationskarten_
+
+ACHTUNG! (Alternativ oder ergänzend)
+---
+Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden erstellt.
+
+Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
+
+<div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
+**Ziel der Methode**
+
+- [x] Aktivierung
+- [ ] Interaktion
+- [ ] Team-Building
+- [ ] Reflexion
+- [ ] Feedback
+- [ ] Sicherung
+
+</div>
+
+<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
+**Lehrveranstaltungsphase**
+
+- [ ] Orientierung
+- [ ] Erarbeitung
+- [ ] Ergebnissicherung
+- [ ] Feedback
+</div>
+
+
+<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
+**Gruppengröße**
+
+- [X] bis 10 Personen
+- [ ] bis 20 Personen
+- [ ] bis 40 Personen
+- [ ] mehr als 40 Personen
+
+</div>
+
+<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
+**Aufwand**
+
+- [ ] gering
+- [ ] mittel
+- [ ] hoch
+
+</div>
+
+<div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
+**Didaktische Funktion**
+
+- [ ] Wissen aneignen/erarbeiten
+- [ ] Wissen sammeln
+- [ ] Wissen teilen
+- [ ] Wissen anwenden
+- [ ] Wissen diskutieren
+
+</div>
+
+<div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
+**Geeignet für online/hybride Lehre**
+
+- [ ] ja
+- [ ] nein
+</div>
+
+</div>
 
 ---
