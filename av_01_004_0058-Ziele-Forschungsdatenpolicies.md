@@ -104,28 +104,28 @@ Zeit
 
 Ziel(e)
 ---
-**Aktivierung**
-**Interaktion**
-**Reflektion**
-**Sicherung**
+- **Aktivierung**
+- **Interaktion**
+- **Reflektion**
+- **Sicherung**
 
 Ablauf
 ---
-**1. Einstieg:** 
-Lehrperson präsentiert Definition und Ziele von Forschungsdaten-Policies (Videokonferenztool mit Präsentationstool)
+1. **Einstieg:** 
+   Lehrperson präsentiert Definition und Ziele von Forschungsdaten-Policies (Videokonferenztool mit Präsentationstool)
 
-**2. Erarbeitung:** 
-Alle TN bekommen ca. zwei oder drei Policies aus der Liste (s. o.) mit dem Ziel, diese mit den präsentierten Ziele von Policies abzugleichen und deren Elemente (erkennbar an den strukturgebenden Abschnitten) zusammenzutragen (mündkich im Plenum oder im Chat)
-Aufgaben: *Welche der genannten Ziele findet ihr in den Forschungsdaten-Policies?* und *Welche Elemente sind in den Forschungsdaten-Policies enthalten?*
+2. **Erarbeitung:** 
+   Alle TN bekommen ca. zwei oder drei Policies aus der Liste (s. o.) mit dem Ziel, diese mit den präsentierten Ziele von Policies abzugleichen und deren Elemente (erkennbar an den strukturgebenden Abschnitten) zusammenzutragen (mündkich im Plenum oder im Chat)
+Fragen: *Welche der genannten Ziele findet ihr in den Forschungsdaten-Policies?* und *Welche Elemente sind in den Forschungsdaten-Policies enthalten?*
 
-**3. Sicherung:** 
-Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenztool mit Präsentationstool)
+3. **Sicherung:** 
+   Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenztool mit Präsentationstool)
 
 
 Benötigtes Material
 ---
-**Foliensatz**
-**Forschungsdaten-Policies**
+- **Foliensatz**
+- **Forschungsdaten-Policies**
 
 ACHTUNG! (Alternativ oder ergänzend)
 ---
