@@ -7,13 +7,13 @@
 
 ### Vorausgesetzte Lernziele <!-- optional -->
 >
-> - keine
+> keine
 
 ### Weiterführende Lernziele <!-- optional -->
 
 > **Folgende Lernziele bieten sich für das direkte Weiterlernen an:**
 >
-> - [Lernziel 1](https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT) 
+> - [Lernende können die Elemente und Ziele von Forschungsdaten-Policies erläutern.] `LZM-ID: 01_004_0059` (LZM-FDM v3, 2025) (https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0059.md ALT) 
 > - [Lernziel 2](https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0069.md ALT)
 > - [Lernziel 3](https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/Link zum Modul.. https://github.com/anvoice-ger/fdm-basis/blob/main/Archiv/r_av_01_004_0068.md ALT)
 
