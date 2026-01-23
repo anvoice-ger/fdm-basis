@@ -102,7 +102,7 @@ Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Poli
 
 Vorbereitungsaufwand
 ---
-gering (ggf. Folien vorbereiten und zu untersuchende Policies auswählen)
+**gering** (ggf. Folien vorbereiten und zu untersuchende Policies auswählen)
 
 Zeit
 ---
