@@ -106,15 +106,24 @@ Vorbereitungsaufwand
 
 Zeit
 ---
-_xx - xx Minuten_
+15 - 20 Minuten_
 
 Ziel(e)
 ---
-_z. B. Aktivierung_
+* Aktivierung
+> - Wissens
 
 Ablauf
 ---
 _Nachvollziehbare Beschreibung des Ablaufs_
+**1. Einstieg:** 
+
+Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)
+
+**2. Erarbeitung:** TN sollen Ziele von Policies mit den vorgegebenen abgleichen und die Elemente (erkennbar an den strukturgebenden Abschnitten) zusammentragen, dafür überfliegen alle TN ca. zwei oder drei Policies aus der Liste (s. u.) und reflektieren die genannten Ziele mit den vorgegebenen und tragen die genannten Elemente der Policy mündlich (oder im Chat) zusammen (Videokonferenztool)
+
+**3. Sicherung:** Lehrperson präsentiert ggf. als Ergebnissicherung die Elemente aus T2T 5 S. 35 s.o. (Videokonferenztool mit Präsentationstool)
+
 
 Benötigtes Material
 ---
