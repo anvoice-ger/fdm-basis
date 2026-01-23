@@ -102,7 +102,7 @@ Die Lernenden gleichen Ziele von bestehenden Forschungsdaten-Policies mit denen 
 
 Vorbereitungsaufwand
 ---
-**gering** (ggf. Folien vorbereiten und zu untersuchende Policies auswählen)
+**gering** (ggf. Folien vorbereiten und zu untersuchende Policies nach Anzahl der TN (insgesamt 2-3 auswählen)
 
 Zeit
 ---
@@ -110,18 +110,19 @@ Zeit
 
 Ziel(e)
 ---
-* Aktivierung
-> - Kollaborative Erarbeitung von Elementen von FD-Policies
-> - 
+**Aktivierung**
+**Interaktion**
+**Reflektion**
+**Sicherung**
 
 Ablauf
 ---
 **1. Einstieg:** 
-
 Lehrperson präsentiert Definition und Ziele von Forschungsdaten-Policies (Videokonferenztool mit Präsentationstool)
 
 **2. Erarbeitung:** 
-TN sollen Ziele von Policies mit den vorgegebenen abgleichen und die Elemente (erkennbar an den strukturgebenden Abschnitten) zusammentragen, dafür überfliegen alle TN ca. zwei oder drei Policies aus der Liste (s. u.) und reflektieren die genannten Ziele mit den vorgegebenen und tragen die genannten Elemente der Policy mündlich (oder im Chat) zusammen (Videokonferenztool)
+Alle TN bekommen ca. zwei oder drei Policies aus der Liste (s. o.) mit dem Ziel, diese mit den präsentierten Ziele von Policies abzugleichen und deren Elemente (erkennbar an den strukturgebenden Abschnitten) zusammenzutragen (mündkich im Plenum oder im Chat)
+Aufgaben: *Welche der genannten Ziele findet ihr in den Forschungsdaten-Policies?* und *Welche Elemente sind in den Forschungsdaten-Policies enthalten?*
 
 **3. Sicherung:** 
 Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenztool mit Präsentationstool)
@@ -129,25 +130,22 @@ Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenzt
 
 Benötigtes Material
 ---
-_Nennung der benötigten Materialien, z. B. Moderationskarten_
+**Foliensatz**
+**Forschungsdaten-Policies (digital)**
 
 ACHTUNG! (Alternativ oder ergänzend)
 ---
-Diesen Abschnitt habe ich mal zur Ansicht gebaut. Die Felder und Bezeichnungen habe ich in Anlehnung an https://einfachgutelehre.uni-kiel.de/methoden erstellt.
-
-Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort mehr verändern als nur x in die eckigen Klammern zu schreiben...
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5em;">
 
 <div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
 **Ziel der Methode**
 
 - [x] Aktivierung
-- [ ] Interaktion
+- [x] Interaktion
 - [ ] Team-Building
-- [ ] Reflexion
+- [x] Reflexion
 - [ ] Feedback
-- [ ] Sicherung
+- [x] Sicherung
 
 </div>
 
@@ -155,8 +153,8 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 **Lehrveranstaltungsphase**
 
 - [ ] Orientierung
-- [ ] Erarbeitung
-- [ ] Ergebnissicherung
+- [x] Erarbeitung
+- [x] Ergebnissicherung
 - [ ] Feedback
 </div>
 
@@ -164,9 +162,9 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 <div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Gruppengröße**
 
-- [X] bis 10 Personen
+- [ ] bis 10 Personen
 - [ ] bis 20 Personen
-- [ ] bis 40 Personen
+- [x] bis 40 Personen
 - [ ] mehr als 40 Personen
 
 </div>
@@ -174,7 +172,7 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 <div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Aufwand**
 
-- [ ] gering
+- [x] gering
 - [ ] mittel
 - [ ] hoch
 
@@ -183,8 +181,8 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 <div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Didaktische Funktion**
 
-- [ ] Wissen aneignen/erarbeiten
-- [ ] Wissen sammeln
+- [x] Wissen aneignen/erarbeiten
+- [x] Wissen sammeln
 - [ ] Wissen teilen
 - [ ] Wissen anwenden
 - [ ] Wissen diskutieren
@@ -194,7 +192,7 @@ Nachnutzende könnten diesen Abschnitt allerdings kaputt machen, wenn sie dort m
 <div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Geeignet für online/hybride Lehre**
 
-- [ ] ja
+- [x] ja
 - [ ] nein
 </div>
 
