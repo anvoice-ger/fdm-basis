@@ -6,7 +6,8 @@
 > - Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen. `LZM-ID: 01_004_0058` (LZM-FDM v3, 2025)
 
 ### Vorausgesetzte Lernziele <!-- optional -->
-keine
+>
+> - keine
 
 ### Weiterführende Lernziele <!-- optional -->
 
