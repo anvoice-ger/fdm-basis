@@ -98,7 +98,7 @@ _Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nac
 
 Kurzbeschreibung
 ---
-Die Lernenden gleichen Inhalte (Ziele und Elemente) von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
+Die Lernenden gleichen Ziele von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab und tragen die gesichteten Elemente zusammen. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
 
 Vorbereitungsaufwand
 ---
@@ -111,18 +111,20 @@ Zeit
 Ziel(e)
 ---
 * Aktivierung
-> - Wissens
+> - Kollaborative Erarbeitung von Elementen von FD-Policies
+> - 
 
 Ablauf
 ---
-_Nachvollziehbare Beschreibung des Ablaufs_
 **1. Einstieg:** 
 
-Lehrperson präsentiert und trägt Definition und Ziele von Forschungsdaten-Policies vor (Videokonferenztool mit Präsentationstool)
+Lehrperson präsentiert Definition und Ziele von Forschungsdaten-Policies (Videokonferenztool mit Präsentationstool)
 
-**2. Erarbeitung:** TN sollen Ziele von Policies mit den vorgegebenen abgleichen und die Elemente (erkennbar an den strukturgebenden Abschnitten) zusammentragen, dafür überfliegen alle TN ca. zwei oder drei Policies aus der Liste (s. u.) und reflektieren die genannten Ziele mit den vorgegebenen und tragen die genannten Elemente der Policy mündlich (oder im Chat) zusammen (Videokonferenztool)
+**2. Erarbeitung:** 
+TN sollen Ziele von Policies mit den vorgegebenen abgleichen und die Elemente (erkennbar an den strukturgebenden Abschnitten) zusammentragen, dafür überfliegen alle TN ca. zwei oder drei Policies aus der Liste (s. u.) und reflektieren die genannten Ziele mit den vorgegebenen und tragen die genannten Elemente der Policy mündlich (oder im Chat) zusammen (Videokonferenztool)
 
-**3. Sicherung:** Lehrperson präsentiert ggf. als Ergebnissicherung die Elemente aus T2T 5 S. 35 s.o. (Videokonferenztool mit Präsentationstool)
+**3. Sicherung:** 
+Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenztool mit Präsentationstool)
 
 
 Benötigtes Material
