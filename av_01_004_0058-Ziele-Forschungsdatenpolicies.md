@@ -77,9 +77,7 @@ Quellenangaben:
 
 
 # Didaktische Umsetzung
-Beschreibung einer Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
-
-**Hinweise zur Recherchei: Für die Recherche nach bereits publizierten Policies in den nachfolgenden Methoden eignet sich folgende Liste:
+**Hinweise zur Recherche: Für die Recherche nach bereits publizierten Policies in den nachfolgenden Methoden eignet sich folgende Liste:
 Quelle: https://www.forschungsdaten.org/index.php/Data_Policies** 
 
 Policies, die in etwa die in Quelle [2] genannten Elemente enthalten:
@@ -92,10 +90,6 @@ Policies, die in etwa die in Quelle [2] genannten Elemente enthalten:
 ---
 
 ## Sozialform: Plenum
-_Beschreibung von Ablauf und Durchführung der ausgewählten didaktischen Methode. Nennung der benötigten Materialien, Tools und Hilfsmittel._ 
-
-_Vorbereitung und Durchführung der Methode sollte so beschrieben sein, dass Nachhnutzende sie ohne weitere externe Erläuterungen nachnutzen können. Gegebenenfalls Links auf hilfreiche Materialien und/oder Quellen integrieren._
-
 Kurzbeschreibung
 ---
 Die Lernenden gleichen Ziele von bestehenden Forschungsdaten-Policies mit denen von der Lehrperson präsentierten ab und tragen die gesichteten Elemente zusammen. Ziel ist es, einen Überblick über Ziele und Elemente von Forschungsdaten-Policies zu bekommen.
@@ -106,7 +100,7 @@ Vorbereitungsaufwand
 
 Zeit
 ---
-15 - 20 Minuten_
+15 - 20 Minuten
 
 Ziel(e)
 ---
@@ -131,7 +125,7 @@ Lehrperson präsentiert als Ergebnissicherung die Elemente s.o. (Videokonferenzt
 Benötigtes Material
 ---
 **Foliensatz**
-**Forschungsdaten-Policies (digital)**
+**Forschungsdaten-Policies**
 
 ACHTUNG! (Alternativ oder ergänzend)
 ---
