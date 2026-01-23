@@ -5,8 +5,10 @@
 >
 > - Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen. `LZM-ID: 01_004_0058` (LZM-FDM v3, 2025)
 
+### Vorausgesetzte Lernziele <!-- optional -->
+keine
+
 ### Weiterführende Lernziele <!-- optional -->
-*Optional können hier Lernziele angegeben werden, die den Lernenden Vorschläge zum Weiterlernen anbieten.* 
 
 > **Folgende Lernziele bieten sich für das direkte Weiterlernen an:**
 >
@@ -59,8 +61,5 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
   * Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
   * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.“ (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
-
-
-Eine individuelle Strukturierung dieses Abschnitts ist durch das Anlegen weiterer Unterkapitel möglich. 
-
 ---
+
