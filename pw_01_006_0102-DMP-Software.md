@@ -17,7 +17,7 @@ comment: Mirco-Content zum Lernziel "Lernende können geeignete Softwares zum Er
 
 title: Datenmanagementplan (DMP) Software
 
-description: Diese Lerneinheit enthält Microlearning-Content zum Lernziel "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" (LZM-ID: 01\_008\_0102) der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246).
+description: Diese Lerneinheit enthält Microlearning-Content zum Lernziel "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" (LZM-ID: 01\_006\_0102) der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246).
 
 keywords: FDM, Forschungsdatenmanagement, Forschungsdaten, Lernziel, Micro-Content, Datenmanagementplan, DMP, Software
 
@@ -31,7 +31,7 @@ LearningResourceType: Microlearning Unit
 
 # 01-008-0102 Datenmanagementplan (DMP) Software
 
-> Diese Lerneinheit enthält Microlearning-Content zum Lernziel "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" (LZM-ID: 01\_008\_0102) der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246).
+> Diese Lerneinheit enthält Microlearning-Content zum Lernziel "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" (LZM-ID: 01\_006\_0102) der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246).
 
 > Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training (EduTrain).
 
@@ -41,13 +41,13 @@ LearningResourceType: Microlearning Unit
 
 > **Diese Lehr-/Lerninhalt adressiert das folgende Lernziel:**
 >
-> "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" `LZM-ID: 01_008_0102` (LZM-FDM v3, 2025)
+> "Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen (DMP) benennen" `LZM-ID: 01_006_0102` (LZM-FDM v3, 2025)
 
 ---
 
 ### Vorausgesetzte Lernziele
 
-> Für das Erreichen des hier angestrebten Lernziels sollten die Begriffe Datenmanagementplan" und "Forschungsdatenlebenszyklus" den Lernenden bereits bekannt sein.
+> Für das Erreichen des hier angestrebten Lernziels sollten die Begriffe "Datenmanagementplan" und "Forschungsdatenlebenszyklus" den Lernenden bereits bekannt sein.
 >
 > Dazu bietet sich folgendes Material zur Einführung an:
 > - XYZ [*Link zum Material*]
@@ -83,20 +83,20 @@ LearningResourceType: Microlearning Unit
 
 > **Folgende Lernziele bieten eine Vertiefung zum Thema Datenmanagementpläne an:**
 >
->- Lernende können Funktionen geeigneter Softwares zum Erstellen von Datenmanagementplänen erläutern. (LZM-ID: 01\_008\_0103)
->- Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen anwenden. (LZM-ID: 01\_008\_0104)
->- Lernende können unter Anleitung einen Datenmanagementplan entwickeln. (LZM-ID: 01\_008\_0105)
->- Lernende können eigentständig einen Datenmanagementplan entwickeln. (LZM-ID: 01\_008\_0106)
->- Lernende können einen Datenmanagementplan im Hinblick auf die Einhaltung von Förderrichtlinien bewerten. (LZM-ID: 01\_008\_0107)
->- Lernende können eigenständig Vorlagen für Datenmanagementpläne konzipieren. (LZM-ID: 01\_008\_0108)
->- Lernende können Best Practice-Beispiele für die Verwendung von Datenmanagementplänen aus Sicht von Forschenden benennen. (LZM-ID: 01\_008\_0109)
->- Lernende können Best Practice-Beispiele für die Verwendung von Datenmanagementplänen aus Sicht von Forschenden erläutern. (LZM-ID: 01\_008\_0110)
->- Lernende können die nationalen und internationalen Perspektiven in Bezug auf einen Datenmanagementplan erläutern. (LZM-ID: 01\_008\_0111)
->- Lernende können relevante (nationale und internationale) Arbeitsgruppen zu DMPs benennen. (LZM-ID: 01_006_0112)
->- Lernende können didaktische Szenarien zum Thema Datenmanagementplan konzipieren. (LZM-ID: 01_006_0113)
->- Lernende können didaktische Szenarien zum Thema Datenmanagementplan durchführen. (LZM-ID: 01_006_0114)
->- Lernende können Beratungsszenarien zum Thema Datenmanagementplan konzipieren. (LZM-ID: 01_006_0115)
->- Lernende können Beratungsszenarien zum Thema Datenmanagementplan durchführen. (LZM-ID: 01_006_0116)
+>- Lernende können Funktionen geeigneter Softwares zum Erstellen von Datenmanagementplänen erläutern. (LZM-ID: 01\_006\_0103)
+>- Lernende können geeignete Softwares zum Erstellen von Datenmanagementplänen anwenden. (LZM-ID: 01\_006\_0104)
+>- Lernende können unter Anleitung einen Datenmanagementplan entwickeln. (LZM-ID: 01\_006\_0105)
+>- Lernende können eigentständig einen Datenmanagementplan entwickeln. (LZM-ID: 01\_006\_0106)
+>- Lernende können einen Datenmanagementplan im Hinblick auf die Einhaltung von Förderrichtlinien bewerten. (LZM-ID: 01\_006\_0107)
+>- Lernende können eigenständig Vorlagen für Datenmanagementpläne konzipieren. (LZM-ID: 01\_006\_0108)
+>- Lernende können Best Practice-Beispiele für die Verwendung von Datenmanagementplänen aus Sicht von Forschenden benennen. (LZM-ID: 01\_006\_0109)
+>- Lernende können Best Practice-Beispiele für die Verwendung von Datenmanagementplänen aus Sicht von Forschenden erläutern. (LZM-ID: 01\_006\_0110)
+>- Lernende können die nationalen und internationalen Perspektiven in Bezug auf einen Datenmanagementplan erläutern. (LZM-ID: 01\_006\_0111)
+>- Lernende können relevante (nationale und internationale) Arbeitsgruppen zu DMPs benennen. (LZM-ID: 01\_006\_0112)
+>- Lernende können didaktische Szenarien zum Thema Datenmanagementplan konzipieren. (LZM-ID: 01\_006\_0113)
+>- Lernende können didaktische Szenarien zum Thema Datenmanagementplan durchführen. (LZM-ID: 01\_006\_0114)
+>- Lernende können Beratungsszenarien zum Thema Datenmanagementplan konzipieren. (LZM-ID: 01\_006\_0115)
+>- Lernende können Beratungsszenarien zum Thema Datenmanagementplan durchführen. (LZM-ID: 01\_006\_0116)
 
 ---
 
@@ -104,7 +104,7 @@ LearningResourceType: Microlearning Unit
 
 Dieses Kapitel enthält eine kurze Input-Präsentation zum Thema Softwares für die Erstellung von Datenmanagementplänen. Diese kann gerne nachgenutzt werden.
 
-Das hier zu erreichende Lernziel ist mit der Stufe 1 der Taxonomie nach Bloom ausgezeichnet. Als Lernziel ist demnach das "Erinnern" angegeben, also die Fähigkeit, grundlegende Fakten, Konzepte und Informationen abzurufen. [*LitVer auf Bloom?*]
+Das hier zu erreichende Lernziel ist mit der Stufe 1 der Taxonomie nach Bloom ausgezeichnet. Als Lernziel ist demnach das "Erinnern" angegeben, also die Fähigkeit, grundlegende Fakten, Konzepte und Informationen abzurufen. [<font color="red">LitVer auf Bloom?</font>]
 
 ---
 
@@ -149,7 +149,11 @@ Weitere Informationen dazu finden sich auch im Artikel "DMP-Tools" von forschung
 
 # Didaktische Umsetzung
 
-Es folgt eine Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen(Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
+Es folgt eine Auswahl an möglichen didaktischen Methoden für verschiedene Sozialformen (Einzelarbeit, Partner:innenarbeit, Gruppenarbeit, Plenum), die mit verscheidenen Zielen (Aktivierung, Interaktion, Team-Building, Reflexion, Feedback, Sicherung des Gelernten) in verschiedenen Phasen einer Lehrveranstaltung (Orientierung, Erarbeitung, Ergebnissicherung, Feedback) zur Einstimmung, Erarbeitung und Wissensfestigung eingesetzt werden können.
+
+Dazu werden beispielhafte didaktische Methoden vorgestellt, die Lernenden einen Überblick über **Software zur Erstellung von Datenmanagementplänen** geben können, damit sie diese wiedererkennen und korrekt benennen können. Die Methoden sind so angelegt, dass sie sowohl in Präsenz als auch online/hybrid funktionieren und unterschiedliche Sozialformen (Plenum, Kleingruppenarbeit, Partner:innenarbeit, Einzelarbeit) abdecken.
+
+Ziel ist es, die Lernenden mit verschiedenen Softwares zur Erstellung von Datenmanagementplänen vertraut zu machen, um ihnen einen Überblick über die Thematik zu geben. 
 
 ---
 
@@ -157,27 +161,45 @@ Es folgt eine Auswahl an möglichen didaktischen Methoden für verschiedene Sozi
 
 Kurzbeschreibung
 ---
-...
+Interaktive Abfrage **vor** einem Kurzvortrag per Zuruf oder Chatsturm: alle TN recherchieren selbstständig nach Software zu Erstellung von DMP und tragen die Ergebnisse mündlich (oder im Chat) zusammen (Videokonferenztool).  
+**Oder** die Teilnehmer:innen rufen Tools bzw. Software zur Erstellung von DMP in den (virtuellen) Raum.
 
 Vorbereitungsaufwand
 ---
-...
+**gering**
 
 Zeit
 ---
-...
+**5-10 Minuten**
 
 Ziel(e)
 ---
-...
+- **Aktivierung**
+- **Vorwissen sichtbar machen**
+- **Software zur Erstellung von DMP benennen können** (Sicherung)
 
 Ablauf
 ---
-...
+1. **Einstieg (1 Min.)**  
+   Leitfrage: *„Kennt ihr Software zur Erstellung von DMP?“*
+
+2. **Sammlung (1–3 Min.)**  
+   Lernende nennen Sftware (z. B. RDMO, DMPTool etc.).  
+   Lehrperson sammelt sichtbar (Tafel/Whiteboard/Chat).
+
+3. **Zuordnung (1–5 Min.)**  
+   Lehrperson blendet die Software ein/loggt sich in Software-Profile ein und erklärt kurz deren Aufbau.
+
+4. **Sicherung (1–2 Min.)**  
+   Lehrperson nennt die Softwares einmal vollständig (als gemeinsame Liste mit Links zu Software).  
+   
 
 Benötigtes Material
 ---
-...
+- Tafel/Whiteboard/Chat zur Sammlung der Softwares  
+- Folie/Handout mit den Softwares  
+- optional: digitales Whiteboard (für online/hybrid)
+
 
 ACHTUNG! Alternativ oder ergänzend
 ---
@@ -186,38 +208,38 @@ ACHTUNG! Alternativ oder ergänzend
 <div style="flex: 1; background-color: lightblue; animation: blink 1s infinite alternate; padding: 1em; border-radius: 2px;">
 **Ziel der Methode**
 
-- [ ] Aktivierung
-- [ ] Interaktion
+- [x] Aktivierung
+- [x] Interaktion
 - [ ] Team-Building
-- [ ] Reflexion
+- [x] Reflexion
 - [ ] Feedback
-- [ ] Sicherung
+- [x] Sicherung
 
 </div>
 
 <div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Lehrveranstaltungsphase**
 
-- [ ] Orientierung
+- [x] Orientierung
 - [ ] Erarbeitung
-- [ ] Ergebnissicherung
+- [x] Ergebnissicherung
 - [ ] Feedback
 </div>
 
 <div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Gruppengröße**
 
-- [ ] bis 10 Personen
-- [ ] bis 20 Personen
-- [ ] bis 40 Personen
-- [ ] mehr als 40 Personen
+- [x] bis 10 Personen
+- [x] bis 20 Personen
+- [x] bis 40 Personen
+- [x] mehr als 40 Personen
 
 </div>
 
 <div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Aufwand**
 
-- [ ] gering
+- [x] gering
 - [ ] mittel
 - [ ] hoch
 
@@ -226,9 +248,9 @@ ACHTUNG! Alternativ oder ergänzend
 <div style="flex: 1; background-color: lightblue; padding: 1em; border-radius: 2px;">
 **Didaktische Funktion**
 
-- [ ] Wissen aneignen/erarbeiten
-- [ ] Wissen sammeln
-- [ ] Wissen teilen
+- [x] Wissen aneignen/erarbeiten
+- [x] Wissen sammeln
+- [x] Wissen teilen
 - [ ] Wissen anwenden
 - [ ] Wissen diskutieren
 
@@ -237,7 +259,7 @@ ACHTUNG! Alternativ oder ergänzend
 <div style="flex: 1; background-color: lightgreen; padding: 1em; border-radius: 2px;">
 **Geeignet für online/hybride Lehre**
 
-- [ ] ja
+- [x] ja
 - [ ] nein
 </div>
 
